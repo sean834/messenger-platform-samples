@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "2784a92285bca8192690e2e35fe31a24",
+    "pageAccessToken": "my_life_is_good",
+    "validationToken": "my_life_is_good",
+    "serverURL": "https://enigmatic-cliffs-77994.herokuapp.com/"
 }
